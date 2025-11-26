@@ -3,7 +3,6 @@
 SnapAI is a modern, AI-driven web application that allows users to create stunning Instagram reels effortlessly.  
 With smart video processing, auto-stitching, voice integration, and an intuitive interface, SnapAI helps you turn raw clips into professional-quality reels within seconds.
 
----
 
 ## 🚀 Features
 
